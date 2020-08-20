@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5de12c9e-f6fa-48da-bad6-b16cb155cdfa" name="Default Changelist" comment="" />
+    <list default="true" id="5de12c9e-f6fa-48da-bad6-b16cb155cdfa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +56,16 @@
       <recent name="C:\Users\Ирина\Desktop\марафон" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/main.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -66,7 +79,9 @@
       <updated>1597662131384</updated>
       <workItem from="1597666950568" duration="48000" />
       <workItem from="1597667011225" duration="3264000" />
-      <workItem from="1597670643258" duration="313000" />
+      <workItem from="1597670643258" duration="951000" />
+      <workItem from="1597911218448" duration="3772000" />
+      <workItem from="1597916413220" duration="1378000" />
     </task>
     <servers />
   </component>
